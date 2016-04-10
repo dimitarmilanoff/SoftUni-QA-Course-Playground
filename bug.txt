@@ -1,3 +1,5 @@
 Some bugs have to be fixed
 
 The bug is fixed now user cannot add negative money
+
+Finally it's working fine. Evrything seems alright for now!
