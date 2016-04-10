@@ -1,1 +1,1 @@
-there is some problrm with the file - bug.txt
+there is some problem with the file - bug.txt
